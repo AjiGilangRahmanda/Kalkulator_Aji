@@ -1,0 +1,8 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Kalkulator_Aji" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">#063970</item>
+    </style>
+
+    <style name="Theme.Kalkulator_Aji" parent="Base.Theme.Kalkulator_Aji" />
+</resources>
